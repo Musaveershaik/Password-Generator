@@ -1,5 +1,3 @@
-Here's a README file for your password generator Chrome extension:
-
 ---
 
 # Password Generator Chrome Extension
