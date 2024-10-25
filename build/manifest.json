@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Password Generator",
+  "description": "A simple password generator Chrome extension.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["clipboardWrite"],
+  "icons": {
+    "128": "icon16.png"
+  }
+}
