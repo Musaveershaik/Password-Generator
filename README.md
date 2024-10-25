@@ -5,7 +5,7 @@
 A simple, efficient password generator Chrome extension to create secure, random passwords based on user preferences. Users can select password length, and choose to include numbers or special characters.
 
 ### 🚀 Live Demo
-We have deployed this application on Netlify! You can access it here: [Password Generator - Netlify](https://generatorpasswordquickly.netlify.app/)
+We have deployed this application on Netlify! You can access it here: [Password Generator](https://generatorpasswordquickly.netlify.app/)
 
 ### Features
 - Generate passwords of any length from 8 to 100 characters.
